@@ -1,5 +1,0 @@
-bshos
-=====
-Internal system
-
-funyung
